@@ -1,0 +1,12 @@
+Project Summary:
+The Lab Request Tracker is created to replace an Excel tracker that's being used in Gong's lab. With the Excel system, it was difficult to track priorities, control edits, manage user permissions, or maintain an approval process.
+A GUI system is created using Java and MySQL database to help manage the lab request queue. Some of the main features include user authentication and permission management, request submission and edit, request approval, status update, logs tracking, turn around time tracking, different views, and sorting capability.
+
+Work Breakdown:
+- Draft a simple requirements doc that acts as our design guide
+- Translate the requirements into workflows and Lucid charts
+- Design doc that explains how we would like to design our data structure, CRCs, and Javadoc
+- Database design and implementation
+- GUI design and implementation (GUI, LoginGUI, MainGUI, SubmitRequestGUI, EditRequestGUI)
+- Other classes include Request, RequestBoard, RequestManager, User, UserManager
+- Unit testing and integration testing.
